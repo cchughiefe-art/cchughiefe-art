@@ -1,9 +1,9 @@
-# [root@github:~] $ whoami
-
-> Status: Active
-> Focus: Web3 / Automation / Termux
-> Location: Lagos, NG
+# [Courage Ogenerume Chughiefe] @ root
 
 ```zsh
-[NETWORK_PULSE]
+> System Status: ACTIVE
+> Interests: Web3 / Blockchain / SMC
+> Current Focus: Automation
+
+[MARKET_DATA]
   SOL_PRICE
